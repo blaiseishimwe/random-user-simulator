@@ -1,6 +1,6 @@
 # Random User Simulator
 
-[UI Image](Screenshot (47).png)
+![UI Image](random-user-generator/ui_image.png)
 
 Vanilla JS project to simulate a random user generator.
 In this app, we utilize the **Fetch API** to make **HTTP requests** and process the responses.
