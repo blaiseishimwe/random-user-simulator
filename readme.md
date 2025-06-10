@@ -1,5 +1,7 @@
 # Random User Simulator
 
+[UI Image](Screenshot (47).png)
+
 Vanilla JS project to simulate a random user generator.
 In this app, we utilize the **Fetch API** to make **HTTP requests** and process the responses.
 The promise-based request is sent to https://randomuser.me/api/, check
